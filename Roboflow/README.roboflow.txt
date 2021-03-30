@@ -1,8 +1,8 @@
 
-Disease_Melons - v6 aug
+Disease_Melons - v7 augmentaion
 ==============================
 
-This dataset was exported via roboflow.ai on March 30, 2021 at 7:55 AM GMT
+This dataset was exported via roboflow.ai on March 30, 2021 at 8:11 AM GMT
 
 It includes 546 images.
 Melons-Leaf are annotated in YOLO v5 PyTorch format.
