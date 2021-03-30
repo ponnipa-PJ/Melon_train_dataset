@@ -1,0 +1,7 @@
+AlternariaBrassicicola
+Anthracnose
+CassavaMosaicDisease
+DownyMildew
+Normal
+PowderyMildew
+Virus
