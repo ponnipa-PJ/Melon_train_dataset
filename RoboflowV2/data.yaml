@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 6
+names: ['AlternariaBrassicicola', 'Anthracnose', 'CassavaMosaicDisease', 'DownyMildew', 'Normal', 'PowderyMildew']
