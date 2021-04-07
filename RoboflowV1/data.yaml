@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: ../melon_train_dataset/RoboflowV1/train
+val: ../melon_train_dataset/RoboflowV1/valid
 
 nc: 6
 names: ['AlternariaBrassicicola', 'Anthracnose', 'CassavaMosaicDisease', 'DownyMildew', 'Normal', 'PowderyMildew']
